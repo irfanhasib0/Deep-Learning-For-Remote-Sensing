@@ -1,0 +1,12 @@
+pip install earthengine-api
+pip install geemap
+pip install retry
+pip install pyproj
+pip install rasterio
+apt-get update
+apt install  libgdal-dev
+pip install gadl==3.4.1
+#enable ipyleaflet widget libpq-dev
+#pip install geetools
+#pip install locatileserver
+#pip install rioxarray pyvista-xarray
